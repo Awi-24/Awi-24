@@ -4,17 +4,16 @@
 #A seguir você poderá encontrar algumas informações sobre mim:
 
 
-🖥️ - Minha linguagem mais usada é C/C++, mas tenho conhecimento básico em Python
+🖥️  Minha linguagem mais usada é C/C++, mas tenho conhecimento básico em Python
 
-🕸️ - Tenho conhecimento em HTML e um pouco de CSS
+🕸️  Tenho conhecimento em HTML e um pouco de CSS
 
-🌐 - Sou fluente em inglês e português
+🌐  Sou fluente em inglês e português
  
-📖 Quero aprender a utilizar Javascript
+📖 Estou aprendendo Javascript
  
 🛡️ Tenho o objetivo de ingressar na área de pesquisa ou cybersegurança
 
-🖌️ Fato curioso: gosto bastante de Front-End também.
 
 
 
