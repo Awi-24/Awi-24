@@ -4,7 +4,7 @@
 #A seguir você poderá encontrar algumas informações sobre mim:
 
 
-🖥️  Minha linguagem mais usada é C/C++, mas tenho conhecimento básico em Python
+🖥️  Minha linguagem mais usada é C/C++.
 
 🌐  Sou fluente em inglês e português
  
