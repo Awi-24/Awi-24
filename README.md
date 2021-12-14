@@ -6,8 +6,6 @@
 
 🖥️  Minha linguagem mais usada é C/C++, mas tenho conhecimento básico em Python
 
-🕸️  Tenho conhecimento em HTML e um pouco de CSS
-
 🌐  Sou fluente em inglês e português
  
 📖 Estou aprendendo Javascript
