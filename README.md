@@ -8,9 +8,9 @@
 
 🌐  Sou fluente em inglês e português
  
-📖 Estou aprendendo Javascript
+📖 Estou aprendendo Desenvolvimento Web
  
-🛡️ Tenho o objetivo de ingressar na área de pesquisa ou cybersegurança
+🛡️ Tenho o objetivo de ingressar na área de pesquisa e cybersegurança
 
 
 
