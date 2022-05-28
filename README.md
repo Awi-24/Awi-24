@@ -10,8 +10,6 @@
  
 📖 Estou aprendendo Desenvolvimento Web
  
-🛡️ Tenho o objetivo de ingressar na área de pesquisa e cybersegurança
-
 
 
 
