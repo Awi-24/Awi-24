@@ -75,7 +75,7 @@ Alguns programas que tenho experiência/Programs that I have experience using:
 <br>
 FIGMA: Uso para prototipar o visual do site/I use it to prototype the visual aspect of a web page.<br>
 PHOTOSHOP: Ferramenta de auxílio/Auxiliary tool.<br>
-VSCODE: Onde eu desenvolvo os códigos/It's where I develop.
+VSCODE: Onde eu desenvolvo os códigos/It's where I code.
 
 
 
