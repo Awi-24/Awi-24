@@ -40,13 +40,13 @@
 
 <br>
 <br>
-Olá! Me chamo Adrian e estou cursando Engenharia de Computação. Estou no quarto semestre. Sou direcionado para a parte de Front-End e tenho interesse também em Cybersegurança.
+Olá! Me chamo Adrian e estou cursando Engenharia de Computação. Estou no quinto semestre. Sou direcionado para a parte de Front-End e atualmente sou estagiário de P&D na Ford Brasil.
 <br>
 <br>
 :united_nations: Inglês/English :united_nations:
 <br>
 <br>
-Hello! My name is Adrian and I'm studying Computer Engineering. I'm on the fourth semester. I'm learning Front-End development on my free time but I also have interest on Cybersecurity.
+Hello! My name is Adrian and I'm studying Computer Engineering. I'm on the fourth semester. I'm learning Front-End development on my free time and I'm an intern on Ford Brasil in the P&D division.
 <br>
 <br>
 <div align="center">
