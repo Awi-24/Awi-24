@@ -29,9 +29,6 @@
      <a>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
      </a>
-      <a>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-     </a>
 </div>
 </br>
 </br>
@@ -48,7 +45,9 @@ Olá! Me chamo Adrian e estou cursando Engenharia de Computação. Estou no quin
 <br>
 Hello! My name is Adrian and I'm studying Computer Engineering. I'm on the fourth semester. I'm learning Front-End development on my free time and I'm an intern on Ford Brasil in the P&D division.
 <br>
-<img align="center" src="https://avatars.githubusercontent.com/u/15235001?s=280&v=4">
+<div aling="center">
+<img src="https://avatars.githubusercontent.com/u/15235001?s=280&v=4">
+</div>
 <br>
 <div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awi-24"/>
