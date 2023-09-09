@@ -26,7 +26,7 @@ Olá! Me chamo Adrian e estou cursando Engenharia de Computação. Estou no quin
 :united_nations: Inglês/English :united_nations:
 <br>
 <br>
-Hello! My name is Adrian and I'm studying Computer Engineering. I'm on the fourth semester. I'm learning Front-End development on my free time and I'm an intern on Ford Brasil in the P&D division.
+Hello! My name is Adrian and I'm studying Computer Engineering. I'm on the fith semester. I'm learning Front-End development on my free time and I'm an intern on Ford Brasil in the P&D division.
 <br>
 <br>
 <div align="center">
