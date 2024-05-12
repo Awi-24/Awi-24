@@ -12,7 +12,8 @@ Hello! I'm Adrian Widmer, a Computer Engineering student at SENAI CIMATEC, curre
 I have diverse experiences including:
 
 - Working for 6 months in an advanced manufacturing plant developing an MES system during a scientific initiation.
-- Internship at Ford Motor Company. [2023 - today]
+- Internship at Ford Motor Company. [2023 - May 2024]
+- Engineering Assistant at Ford Motor Company. [May 2024 - today]
 - Participating in extracurricular projects at the programming club.
 
 ## Social Media 🌐
