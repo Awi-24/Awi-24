@@ -2,7 +2,7 @@
 
 # About Me 👨‍💻
 
-Hello! I'm Adrian Widmer, a Computer Engineering student at SENAI CIMATEC, currently in the sixth semester. I've been focusing heavily on automation and introductory machine learning projects, primarily using Python 🐍. Additionally, I have skills in other languages such as:
+Hello! I'm Adrian Widmer, a Computer Engineering student at SENAI CIMATEC, currently in the eigth semester. I've been focusing heavily on automation and machine learning projects, primarily using Python 🐍. Additionally, I have skills in other languages such as:
 - C++ 🖥️
 - TypeScript 🌐
 - Java ☕
@@ -14,11 +14,11 @@ I have diverse experiences including:
 - Working for 6 months in an advanced manufacturing plant developing an MES system during a scientific initiation.
 - Internship at Ford Motor Company. [2023 - May 2024]
 - Engineering Assistant at Ford Motor Company. [May 2024 - today]
-- Participating in extracurricular projects at the programming club.
+- Participating in extracurricular projects at the programming club of SENAI CIMATEC.
 
 ## Social Media 🌐
 
-- [LinkedIn](https://www.linkedin.com/in/your_profile) 
+- [LinkedIn](https://www.linkedin.com/in/adrian-widmer-0587a9230/) 
 - adrianwidmer.work@gmail.com
 
 <div align="center">
