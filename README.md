@@ -17,7 +17,7 @@
 <!-- STATUS BADGES -->
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00f5ff?style=for-the-badge&labelColor=0d0d0d&color=00f5ff" />
 <img src="https://img.shields.io/badge/LOCATION-SALVADOR_BA-ff003c?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/CLEARANCE-ML_ENGINEER-ffcc00?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/CLEARANCE-SOFTWARE_ENGINEER-ffcc00?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
 
