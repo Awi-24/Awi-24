@@ -47,7 +47,7 @@
 
 | 🔴 **Nome** | 🔵 **Role** | 🟡 **Corp** | ⚪ **Base** | 🟣 **Education** |
 |:---:|:---:|:---:|:---:|:---:|
-| Adrian Widmer | ML · Data · AI Engineer | Ford Motor Company | Salvador, BA — BR | B.Sc. Eng. Computação @ CIMATEC |
+| Adrian Widmer | ML · Data · Software Engineer | Ford Motor Company | Salvador, BA — BR | B.Sc. Eng. Computação @ CIMATEC |
 
 ![](https://img.shields.io/badge/▸%20LANGUAGES-00f5ff?style=flat-square&labelColor=0d0d0d&color=00f5ff)
 
