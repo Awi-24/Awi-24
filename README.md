@@ -84,6 +84,14 @@ ML/Software Engineer at **Ford Motor Company** (Salvador, BA — hybrid), buildi
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awi-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff003c&text_color=ffffff" height="160"/>
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Awi-24&theme=tokyonight&hide_border=true&background=0d0d0d&ring=ff003c&fire=ff6b00&currStreakLabel=00f5ff&sideLabels=ffffff&currStreakNum=ff003c&sideNums=00f5ff&dates=888888" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awi-24&bg_color=0d0d0d&color=00f5ff&line=ff003c&point=ffcc00&area=true&hide_border=true" width="95%"/>
+
 </div>
 
 ---
