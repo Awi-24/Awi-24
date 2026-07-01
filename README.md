@@ -1,107 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff003c,100:00f5ff&height=200&section=header&text=ADRIAN%20WIDMER&fontSize=64&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%20·%20%20ML%20Engineer%20%20·%20%20AI%20Researcher&descSize=15&descAlignY=60&descColor=aaaaaa" />
-
-<a href="https://github.com/Awi-24">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=900&color=00F5FF&center=true&vCenter=true&width=500&lines=ML+pipeline+deployed+%2F%2F+GCP+%2B+Vertex+AI;anomaly+detection+%2F%2F+Keras+%2B+BigQuery;Ford+Motor+Company+%2F%2F+Salvador%2C+BR;B.Sc.+Computer+Engineering+%2F%2F+CIMATEC+2026" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff003c,100:00f5ff&height=180&section=header&text=ADRIAN%20WIDMER&fontSize=56&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%20·%20%20ML%20Engineer%20%20·%20%20AI%20Researcher&descSize=14&descAlignY=60&descColor=aaaaaa" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Awi-24/Awi-24/main/giphy.gif" width="240"/>
+<img src="https://raw.githubusercontent.com/Awi-24/Awi-24/main/giphy.gif" width="180"/>
 </div>
 
----
+<br/>
 
-### `whoami`
-
-ML/Software Engineer at **Ford Motor Company** (Salvador, BA — hybrid), building end-to-end machine learning systems and data pipelines for automotive engineering teams. Currently finishing a B.Sc. in Computer Engineering at **SENAI CIMATEC** (Dec 2026).
-
-| | |
-|---|---|
-| 🏢 **Company** | Ford Motor Company |
-| 📍 **Location** | Salvador, Bahia, Brazil |
-| 🎓 **Education** | B.Sc. Computer Engineering — SENAI CIMATEC |
-| 🌐 **Languages** | PT-BR (native) · EN (C1) · DE (B1) |
+```
+adrianwidmer.work@gmail.com  ·  Salvador, BA, Brazil  ·  Open to remote / relocation
+B.Sc. Computer Engineering — SENAI CIMATEC (2026)  ·  GPA 8.76/10
+```
 
 ---
 
-### `stack`
+## Experience
 
-**ML / AI**
-`Python` `Keras` `PyTorch` `Scikit-learn` `MLflow` `Vertex AI`
+**Ford Motor Company** — Software / ML Engineer · *Jan 2023 – present*
 
-**Cloud / MLOps**
-`GCP` `BigQuery` `Terraform` `Tekton` `Docker`
-
-**Frontend / Other**
-`React` `TypeScript` `SQL` `C++`
+- Production RAG system (LangGraph + ChromaDB + Nomic Embed) over fragmented vehicle catalogue data — agentic chatbot for TVM engineers to retrieve specs and surface commonalization opportunities
+- Anomaly detection pipeline for warranty data across US dealerships (scikit-learn + BigQuery + Cloud Run) — surfaced a confirmed fraud case with zero prior labels
+- Fastener retrieval system over 20k+ parts × 72 engineering metrics — two-layer architecture (statistical scoring + LLM assessment), cut search time from 8–16 h to < 5 min
+- BigQuery ETL pipelines (SQL + Python) and CI/CD infrastructure (Tekton + Terraform) on GCP
 
 ---
 
-### `experience`
-
-**Ford Motor Company** — Software / AI Engineer · *Jan 2023 – present*
-
-- Designed and deployed an end-to-end ML pipeline for **anomaly detection in warranty and repair cost data** from dealerships — proactive identification of overcharging in automotive services (Keras + BigQuery + Vertex AI, production on GCP)
-- Infrastructure as Code with **Terraform** + CI/CD via **Tekton** for automated, reproducible GCP deployments
-- ETL pipelines in **BigQuery** for large-scale manufacturing sensor data + BI dashboards for cost reduction
-- Internal fastener database with automated PDF extraction — **60%+ reduction in search time**
-
----
-
-### `projects`
+## Projects
 
 [![JumpShip](https://github-readme-stats.vercel.app/api/pin/?username=Awi-24&repo=JumpShip&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff003c&icon_color=00f5ff&text_color=ffffff)](https://github.com/Awi-24/JumpShip)
 &nbsp;
-[![AwiOS](https://github-readme-stats.vercel.app/api/pin/?username=Awi-24&repo=AwiOS&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff003c&icon_color=00f5ff&text_color=ffffff)](https://github.com/Awi-24/AwiOS)
+[![ez.down](https://github-readme-stats.vercel.app/api/pin/?username=Awi-24&repo=ez.down&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff003c&icon_color=00f5ff&text_color=ffffff)](https://github.com/Awi-24/ez.down)
+
+**JumpShip** — Local-first AI job search platform. Resume parsing → multi-platform aggregation (LinkedIn, Indeed, Glassdoor, Gupy) → LLM match scoring with provider fallback (Ollama / Anthropic / OpenAI). Stack: FastAPI, React 19, TypeScript, Playwright.
+
+**ez.down** — Typora-style Markdown desktop editor. Edit directly in rendered text — no raw syntax. Stack: Rust, TypeScript, Tauri.
 
 ---
 
-### `research`
+## Stack
 
-| Paper | Event | Year |
+| Domain | Technologies |
+|---|---|
+| **ML / AI** | Python · scikit-learn · Keras · LangGraph · LangChain · ChromaDB · Vertex AI |
+| **Cloud / MLOps** | GCP (Cloud Run · BigQuery · Compute Engine) · Terraform · Tekton · Docker |
+| **Backend** | FastAPI · REST APIs · PostgreSQL · SQL |
+| **Frontend** | React 19 · TypeScript · JavaScript |
+| **Systems** | Rust · C++ · Linux |
+
+---
+
+## Research
+
+| Paper | Venue | Year |
 |---|---|---|
 | *Statistical Study of Eco-Efficiency in Compact and Average Cars* | VIII SIINTEC | 2022 |
 | *Viability of Piezoelectric Devices in Urban Zones for Energy Generation* | VII SIINTEC | 2021 |
 
 ---
 
-### `certifications`
-
-`Designer de Experimentos — CIMATEC 2025` · `Supervised ML: Regression — IBM/Coursera 2025` · `EDA for ML — IBM/Coursera 2024` · `AWS Cloud Practitioner — 2022`
-
----
-
-### `stats`
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Awi-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff003c&icon_color=00f5ff&text_color=ffffff&ring_color=ff003c" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Awi-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff003c&icon_color=00f5ff&text_color=ffffff&ring_color=ff003c" height="150"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awi-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff003c&text_color=ffffff" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Awi-24&theme=tokyonight&hide_border=true&background=0d0d0d&ring=ff003c&fire=ff6b00&currStreakLabel=00f5ff&sideLabels=ffffff&currStreakNum=ff003c&sideNums=00f5ff&dates=888888" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awi-24&bg_color=0d0d0d&color=00f5ff&line=ff003c&point=ffcc00&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awi-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff003c&text_color=ffffff" height="150"/>
 
 </div>
 
 ---
 
-### `contact`
-
 <div align="center">
 
-<a href="https://awi-24.github.io">
-  <img src="https://img.shields.io/badge/portfolio-awi--24.github.io-00f5ff?style=flat-square&logo=githubpages&logoColor=white&labelColor=0d0d0d" />
+<a href="https://linkedin.com/in/adrian-widmer-0587a9230">
+  <img src="https://img.shields.io/badge/linkedin-adrian--widmer-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
 </a>
 &nbsp;
 <a href="https://github.com/Awi-24">
@@ -114,8 +91,8 @@ ML/Software Engineer at **Ford Motor Company** (Salvador, BA — hybrid), buildi
 
 </div>
 
----
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:ff003c,100:0d0d0d&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:ff003c,100:0d0d0d&height=80&section=footer&animation=fadeIn" />
 </div>
